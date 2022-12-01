@@ -7,7 +7,7 @@ The dataset contains **5,466 Ecore models** and **5,120 UML models**, and is pro
 This organization includes the repositories implementing the main components of ModelSet.
 The following figure illustrates the architecture:
 
-![ModelSet Architecture](architecture.png)
+![ModelSet Architecture](https://raw.githubusercontent.com/modelset/.github/main/profile/architecture.png)
 
 The components and the corresponding repositories are:
 
